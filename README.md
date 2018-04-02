@@ -19,4 +19,4 @@ A system suit for Human Resource Department.
 
 ## License
 
-This project is under [MIT License](https://raw.githubusercontent.com/alexaaronfrancisco/hrsystem/master/LICENSE)
+This project is under [MIT License](https://alexaaronfrancisco.mit-license.org/)
